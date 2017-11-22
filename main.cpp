@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 /*
 Programma fatto da Daniele D'Angelo
+=======
+/**
+Programma che conta fino a 10
+@author D'Angelo Daniele
+@date 22/11/2017
+@version 1.0
+>>>>>>> FIX_BUG
 */
 #include<iostream>
 
