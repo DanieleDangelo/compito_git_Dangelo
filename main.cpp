@@ -1,3 +1,8 @@
+/**
+Programma che conta fino a 10
+@author D'Angelo Daniele
+@version 1.0
+*/
 #include<iostream>
 
 using namespace std;
